@@ -67,9 +67,3 @@ Atualmente expandindo conhecimentos em desenvolvimento web.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=realkalashnikov&color=0ea5e9&style=for-the-badge" alt="Profile views" />
 </div>
-
-<div align="center">
-  
-  ### 💡 "Código limpo não é escrito seguindo regras. Você sabe que escreveu código limpo quando cada rotina que você lê é praticamente o que você esperava."
-  
-</div>
