@@ -29,7 +29,7 @@ Atualmente expandindo conhecimentos em desenvolvimento web.
 - 🤖 **Discord Bots**: Desenvolvimento de bots complexos e sistemas de automação
 - 💻 **Backend**: Node.js, TypeScript, Express, Fastify
 - 🔧 **Ferramentas**: Git, GitHub, APIs RESTful
-- 📚 **Aprendendo**: React, Next.js, React Native, Python
+- 📚 **Aprendendo**: React Native, Kotlin
 
 ### 📊 Estatísticas do GitHub
 
