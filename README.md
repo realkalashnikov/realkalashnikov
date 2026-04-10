@@ -43,7 +43,7 @@ Atualmente expandindo conhecimentos em desenvolvimento web.
 ### 🏆 Troféus do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realkalashnikov&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=realkalashnikov&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
