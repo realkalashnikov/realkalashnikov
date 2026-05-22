@@ -1,15 +1,15 @@
-<h3 align="center">🚀 Sobre Mim</h3>
+<h2>Rafael Silva</h2>
 
-<p align="center">
-Desenvolvedor especializado em Discord Bots com Node.js e TypeScript.<br/>
-Atualmente expandindo conhecimentos em desenvolvimento web.
+<p>
+  Desenvolvedor focado em Node.js e TypeScript, comecei criando bots pra Discord e fui ficando viciado nisso.<br/>
+  Hoje em dia faço de tudo um pouco: automação, backend, APIs e tô migrando cada vez mais pro web dev.
 </p>
 
 ---
 
-### 💻 Tecnologias & Ferramentas
+**Stack que uso:**
 
-<div align="center">
+<div>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,45 +20,30 @@ Atualmente expandindo conhecimentos em desenvolvimento web.
 
 </div>
 
-### 🎯 Especialidades
+**Onde passo mais tempo:**
 
-- 🤖 **Discord Bots**: Desenvolvimento de bots complexos e sistemas de automação
-- 💻 **Backend**: Node.js, TypeScript, Express, Fastify
-- 🔧 **Ferramentas**: Git, GitHub, APIs RESTful
-- 📚 **Aprendendo**: React Native, Kotlin
+- Bots pra Discord, desde comandos simples até sistemas inteiros com banco de dados, filas e permissões
+- APIs REST com Node.js/Fastify/Express
+- Explorando React Native e Kotlin
 
-### 📊 Estatísticas do GitHub
+---
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realkalashnikov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realkalashnikov&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### 🔥 Streak Stats
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=realkalashnikov&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-### 🏆 Troféus do GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy-kannan.vercel.app/?username=realkalashnikov&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 ---
 
-### 📫 Entre em Contato
-
-<div align="center">
+**Contato:**
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaeldasilvadeveloper@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-silva-4253b1307/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realkalashnikov)
-
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=realkalashnikov&color=0ea5e9&style=for-the-badge" alt="Profile views" />
